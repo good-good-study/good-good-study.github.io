@@ -22871,7 +22871,7 @@ while(true)switch(s){case 0:q=$.avy()
 p=q.e$
 p.J(p,new A.AT(!0,!0,new A.auK()))
 q=A.a(q.d$,"options")
-q.x$="https://api.jd.com"
+q.x$="http://124.222.116.90/jd"
 q.sDx(0,$.aHm().a)
 q.d=15e3
 q.sQs(0,A.aA(["Access-Control-Allow-Origin","*","Access-Control-Allow-Credentials",!0,"Access-Control-Security-Policy","upgrade-insecure-requests","Access-Control-Allow-Methods","GET,HEAD,POST,OPTIONS"],t.N,t.z))
